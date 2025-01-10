@@ -1,6 +1,8 @@
 {
-    "url": "https://realpython.com/",
-    "title_selector": "h2.card-title",
-    "link_selector": "h2.card-title a",
-    "pages": 1
+    "url": "",
+    "title_selector": "",
+    "link_selector": "",
+    "pages": 1,
+    "headers": "",
+    "proxies": ""
 }
